@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cs361-project
 ### Grassland Stray: Shifting Savannas
 
@@ -7,3 +8,6 @@
 ## Roadmap
 <p>The project is now complete for submission in class. The next element I would like to add would be sound and more animations. Eventually I would like to have many more scenes, enemies, loot, and a high score system.</p>
 
+=======
+# grassland_stray
+>>>>>>> c55f5992ff530b47ee64ab34261e1ea55c6cf9f7
