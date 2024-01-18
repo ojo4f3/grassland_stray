@@ -1,0 +1,6 @@
+#!python3
+import os
+
+for dir, subdir, file in os.walk( "/home/colton/PycharmProjects/cs361-project/level-data"):
+  if 'csv' in file:
+    file.name = file[4:]
